@@ -7,12 +7,12 @@ items:
     image:
       src: /assets/img/work/mekkera.png
       alt: mekkera
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-  - title: 컴공그램
+    description: 사라져가는 제주어와 제주의 문화를 녹인 RPG 게임입니다. 유니티를 이용하여 개발하였고, 기획, 디자인, 개발에 참여하였습니다.
+  - title: 쑥쑥가계부
     image:
-      src: /assets/img/work/cggram.png
-      alt: cggram
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+      src: /assets/img/work/accountbook.png
+      alt: accounbook
+    description: 간단한 가계부 어플이고 기획, 개발에 참여하였습니다.
 ---
 
 참여한 프로젝트들
