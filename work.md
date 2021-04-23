@@ -13,6 +13,11 @@ items:
       src: /assets/img/work/accountbook.png
       alt: accounbook
     description: 간단한 가계부 어플이고 기획, 개발에 참여하였습니다.
+  - title: 쑥쑥가계부
+    image:
+      src: /assets/img/work/accountbook.png
+      alt: accounbook
+    description: 간단한 가계부 어플이고 기획, 개발에 참여하였습니다.
 ---
 
 참여한 프로젝트들
