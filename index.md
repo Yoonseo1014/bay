@@ -5,10 +5,5 @@ profile_picture:
   alt: website picture
 ---
 
-<p>
-  Welcome! This site serves as an example for the Bay Jekyll theme. Bay is a very simple and minimal theme, directly inspired by Dan Grover's <a href="http://dangrover.com">website</a>.
-</p>
-
-<p>
-  You can find the source code and the instructions on <a href="https://github.com/eliottvincent/bay">GitHub</a>.
-</p>
+<h2>Welcome! This is YoOnseO's PAGE. </h2>
+<p>제가 참여한 <a class="about_me_links" href="http://localhost:4000/blog/work">프로젝트</a>들을 확인하고 <a class="about_me_links" href="mailto:a50149191@gmail.com">이메일</a>을 보내 주세요!</p>
