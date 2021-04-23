@@ -13,11 +13,11 @@ items:
       src: /assets/img/work/accountbook.png
       alt: accounbook
     description: 간단한 가계부 어플이고 기획, 개발에 참여하였습니다.
-  - title: 쑥쑥가계부
+  - title: 컴공그램
     image:
-      src: /assets/img/work/accountbook.png
-      alt: accounbook
-    description: 간단한 가계부 어플이고 기획, 개발에 참여하였습니다.
+      src: /assets/img/work/cggram.png
+      alt: cggram
+    description: 과에서 진행한 행사에서 찍은 사진들을 모아 앨범 형식으로 올려놓은 웹페이지입니다. 기획, 디자인, 개발에 참여하였습니다.
 ---
 
 참여한 프로젝트들
